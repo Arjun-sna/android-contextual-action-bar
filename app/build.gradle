@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.arj.cab"
+        applicationId "com.arj.cabsample"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
