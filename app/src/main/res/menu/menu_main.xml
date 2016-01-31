@@ -2,8 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.arj.cabsample.MainActivity" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+    <item android:id="@+id/action_open_cab"
+        android:title="@string/action_open_cab"
         android:orderInCategory="100"
-        app:showAsAction="never" />
+        app:showAsAction="always" />
 </menu>
