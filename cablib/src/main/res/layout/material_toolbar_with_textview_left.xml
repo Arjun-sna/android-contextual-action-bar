@@ -8,7 +8,7 @@
     android:background="?attr/colorPrimary"
     android:minHeight="?attr/actionBarSize">
 
-    <com.arj.cab.TypeFaceTextView
+    <in.arjsna.cab.TypeFaceTextView
         android:id="@+id/toolBarTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

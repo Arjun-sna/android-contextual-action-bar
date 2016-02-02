@@ -10,8 +10,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.arj.cab.CabCallback;
-import com.arj.cab.ContextualActionBar;
+import in.arjsna.cab.CabCallback;
+import in.arjsna.cab.ContextualActionBar;
 
 public class MainActivity extends AppCompatActivity {
 

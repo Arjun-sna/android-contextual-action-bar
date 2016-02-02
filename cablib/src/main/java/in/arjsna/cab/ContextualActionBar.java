@@ -1,4 +1,4 @@
-package com.arj.cab;
+package in.arjsna.cab;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
@@ -26,6 +26,8 @@ import android.view.ViewGroup;
 import android.view.ViewStub;
 import android.view.animation.AnimationUtils;
 import android.view.animation.LayoutAnimationController;
+
+import com.arj.cab.R;
 
 import java.io.Serializable;
 

@@ -5,13 +5,15 @@
  * This file is part of SeeChat Project.
  */
 
-package com.arj.cab;
+package in.arjsna.cab;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.TextView;
+
+import com.arj.cab.R;
 
 public class TypeFaceTextView extends TextView {
 
