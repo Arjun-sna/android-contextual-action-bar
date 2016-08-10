@@ -1,7 +1,8 @@
-# Contextual ActionBar
+# Contextual ActionBar [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Contextual%20ActionBar-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4115)
 A contextual actionbar library with many customisation option.
 
 ## Demo
+<img src="https://arjun-sna.github.io/raw/cab.gif" width="200" />
 
 ## Installation
 
