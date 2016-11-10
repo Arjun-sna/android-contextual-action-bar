@@ -89,7 +89,7 @@ public class ContextualActionBar implements Serializable, Toolbar.OnMenuItemClic
                 CabUtil.resolveColor(mContext, R.attr.colorPrimary, Color.GRAY));
         mCloseDrawable = CabUtil.resolveResId(mContext, R.attr.mcab_close_drawable,
                 CabUtil.resolveResId(mContext, R.attr.actionModeCloseDrawable,
-                        R.drawable.abc_ic_ab_back_mtrl_am_alpha));
+                        R.drawable.abc_ic_ab_back_material));
         if (mToolbar != null && mToolbar.getMenu() != null)
             mToolbar.getMenu().clear();
         return this;
