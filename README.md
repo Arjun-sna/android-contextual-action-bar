@@ -2,7 +2,7 @@
 A contextual actionbar library with many customisation option.
 
 ## Demo
-<img src="https://rawgit.com/Arjun-sna/Arjun-sna.github.io/master/raw/cab.gif" width="200" />
+<img src="https://i.imgur.com/eBjMUlC.gif" width="200" />
 
 ## Installation
 
